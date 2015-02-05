@@ -1,0 +1,11 @@
+
+development:
+  adapter: postgresql
+  database: antique_store_development
+  template: template0
+
+
+test:
+  adapter: postgresql
+  database: antique_store_test
+  template: template0
